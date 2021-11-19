@@ -1,0 +1,67 @@
+[
+    {
+        "nome": "CLEITO E ROBSON",
+        "episodios": [
+            {
+                "episodio": "EP.1",
+                "descricao": "CEMITÉRIO ÀS 3 DA MANHÃ!",
+                "video": "https://youtu.be/J6y9SPmuMEs"
+            },
+            {
+                "episodio": "EP.2",
+                "descricao": "COGUMELO PROIBIDO!",
+                "video": "https://youtu.be/mRgSdGvGzS4"
+            },
+            {
+                "episodio": "EP.3",
+                "descricao": "O FIM DA AMIZADE?!",
+                "video": "https://youtu.be/dQu3rAZKGZM"
+            }
+        ]
+    },
+    {
+        "nome": "FORTHILL",
+        "episodios": [
+            {
+                "episodio": "EP.1",
+                "descricao": "A ORIGEM DA SKYE!",
+                "video": "https://youtu.be/eSrNnQV9SWw"
+            },
+            {
+                "episodio": "EP.2",
+                "descricao": "OLLIE É REAL?",
+                "video": "https://youtu.be/CZ2AgtiPplw"
+            },
+            {
+                "episodio": "EP.3",
+                "descricao": "OLLIE É O MONSTRO?",
+                "video": "https://youtu.be/VZG1rLjq4AA"
+            },
+            {
+                "episodio": "EP.4",
+                "descricao": "O QUE ACONTECEU COM A SKYE?",
+                "video": "https://youtu.be/IfBNZIfjbgE"
+            }
+        ]
+    },
+    {
+        "nome": "FORTVERSO",
+        "episodios": [
+            {
+                "episodio": "EP.1",
+                "descricao": "O PONTO ZERO!",
+                "video": "https://youtu.be/7IL1CCeQhSw"
+            },
+            {
+                "episodio": "EP.2",
+                "descricao": "A ORDEM IMAGINADA!",
+                "video": "https://youtu.be/c3j1PFG4oo4"
+            },
+            {
+                "episodio": "EP.3",
+                "descricao": "O SEGREDO DA LEXA!",
+                "video": "https://youtu.be/zy6lRFkAcjQ"
+            }
+        ]
+    }
+]
